@@ -2,7 +2,7 @@
 本專案使用 Selenium 自動化爬取 [Project Gutenberg](https://www.gutenberg.org/browse/languages/zh) 的 **中文書籍內容**，清除英文及全型英數，只保留純中文內容並儲存為 `.txt` 檔案。所有書籍均儲存在 `project_gutenberg/` 資料夾中。
 
 
-# 專案目標
+## 專案目標
 - 自動爬取 Project Gutenberg 中文書籍
 - 過濾英文、全型英數與無效內容
 - 儲存為純中文 `.txt` 檔
@@ -29,11 +29,11 @@
 - 檔案總數驗證（顯示超過 200 本）
 - 檢查個別 txt 為純中文內容
 ![](擷取-1.PNG)
-# 第一本
+- 第一本
 ![](擷取2.PNG)
-# 第二本
+- 第二本
 ![](擷取3.PNG)
-# 第三本
+- 第三本
 ![](擷取4.PNG)
 
 
