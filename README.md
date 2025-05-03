@@ -38,7 +38,7 @@
 
 
 ## 🎥 作業影片驗證
-[BDSE37 14 焦亞妗 Project Gutenberg 中文電子書爬取](https://youtu.be/xQYGsyXhy2A)
+[BDSE37-14-Project Gutenberg 中文電子書爬取](https://youtu.be/xQYGsyXhy2A)
 影片內容包含：
 - 程式執行流程（自動開啟瀏覽器 + 自動存檔）
 - 隨機開啟 3 本 .txt 驗證內容為純中文
