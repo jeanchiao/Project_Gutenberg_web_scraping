@@ -10,7 +10,7 @@
 - 上傳至 GitHub 並附上執行影片
 
 
-## 🎥安裝套件
+## 🧰安裝套件
 以下為本專案使用之 Python 套件及版本：
 - selenium==4.3.1
 - beautifulsoup4==4.12.3
